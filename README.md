@@ -1,4 +1,4 @@
-终有凯归尽途，不必若，走马匆[。](https://www.gnu.org)
+终有凯归尽途，不必若，走马匆。
 
 - 🛰 _Proficient in [Go](https://go.dev/) back-end development._
 - 🐧 _Primary systems: [NixOS](https://nixos.org/), [Gentoo](https://www.gentoo.org/) Linux._
