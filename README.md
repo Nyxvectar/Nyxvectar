@@ -2,7 +2,7 @@
 
 I'm **Rtsingo Су. Nyxvectar**, a *ordinary student* who is into linux and internet development~
 
-- 👋 You can call me by first name **Nyxvectar** or the full **Rtsingo Су. Nyxvectar**.
+- 👋 You can also call me by my full name **Rtsingo Су. Nyxvectar**.
 - 🌏 Mainly use **English** and **Chinese**.
 - 🛰 Interested in a diversity of things.
 - 📮 Feel free to talk with me!
@@ -33,7 +33,7 @@ I'm **Rtsingo Су. Nyxvectar**, a *ordinary student* who is into linux and inte
 </div>
 
 - Use **NixOS** and **Gentoo Linux** both on my own PC and servers.
-- Use **Hyprland** as desktop environment and colemak-dh as layout.
+- Use **Hyprland** as desktop environment and **Colemak-DH** as layout.
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Nyxvectar&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=0088e2&ring_color=0088e2&border_radius=20)
@@ -47,3 +47,9 @@ I'm **Rtsingo Су. Nyxvectar**, a *ordinary student* who is into linux and inte
 - - -
 
 Avatar is from Linlu ( [Pixiv](https://www.pixiv.net/users/83727271) / [Twitter](https://twitter.com/Linlu163983) )
+
+<div align="right">
+  <a href="https://www.gnu.org/">
+    <img src="https://www.gnu.org/graphics/gerwinski-gnu-head.png" alt="GNU" width="60" style="margin-bottom: 10px;">
+  </a>
+</div>
