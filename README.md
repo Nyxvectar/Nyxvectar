@@ -2,7 +2,7 @@
 
 I'm **Nyxvectar**, ~a ordinary student~ who is into linux and internet development.
 
-- 🌏 Mainly use **English** and **Chinese** regularly.
+- 🌏 Communicating with me in English is recommended.
 - 🛰 Interested in a diversity of things, especially on tech.
 - 📮 Feel free to talk with me! Contacts is at the bottom.
 
