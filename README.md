@@ -1,11 +1,10 @@
 ## Welcome! Here is Nyxvectar 😉
 
-I'm **Rtsingo Су. Nyxvectar**, ~a ordinary student~ who is into linux and internet development.
+I'm **Nyxvectar**, ~a ordinary student~ who is into linux and internet development.
 
-- 👋 You can also call me by full **Rtsingo Су. Nyxvectar**.
-- 🌏 Mainly use **English** and **Chinese**.
-- 🛰 Interested in a diversity of things.
-- 📮 Feel free to talk with me!
+- 🌏 Mainly use **English** and **Chinese** regularly.
+- 🛰 Interested in a diversity of things, especially on tech.
+- 📮 Feel free to talk with me! Contacts is at the bottom.
 
 ### Technology Stack
 
