@@ -1,6 +1,6 @@
 ## Welcome! Here is Nyxvectar 😉
 
-I'm **Rtsingo Су. Nyxvectar**, a *ordinary student* who is into linux and internet development~
+I'm **Rtsingo Су. Nyxvectar**, ~a ordinary student~ who is into linux and internet development.
 
 - 👋 You can also call me by full **Rtsingo Су. Nyxvectar**.
 - 🌏 Mainly use **English** and **Chinese**.
