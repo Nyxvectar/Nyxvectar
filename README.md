@@ -45,7 +45,3 @@ I'm **Nyxvectar**, ~a ordinary student~ who is into linux and internet developme
 [![Protonmail](https://img.shields.io/badge/Nyxvectar@proton.me-ffffff?style=for-the-badge&logo=protonmail&logoColor=000000)](Nyxvectar@proton.me)
 [![Matrix](https://img.shields.io/badge/nyxvectar@matrix.org-ffffff?style=for-the-badge&logo=element&logoColor=000000)](https://matrix.to/#/@nyxvectar:matrix.org)
 [![Mastodon](https://img.shields.io/badge/nyxvectar@mastodon.social-ffffff?style=for-the-badge&logo=mastodon&logoColor=000000)](https://mastodon.social/@Nyxvectar)
-
-- - -
-
-Avatar is from Linlu ( [Pixiv](https://www.pixiv.net/users/83727271) / [Twitter](https://twitter.com/Linlu163983) )
