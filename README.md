@@ -1,10 +1,10 @@
 ## Welcome! Here is Nyxvectar 😉
 
-I'm **Nyxvectar**, ~a ordinary student~ who is into linux and internet development.
+I'm **Nyxvectar**, ~~an ordinary student~~ who is into linux and internet development.
 
 - 🌏 Communicating with me in English is recommended.
-- 🛰 Interested in a diversity of things, especially on tech.
-- 📮 Feel free to talk with me! Contacts is at the bottom.
+- 🛰 Interested in a diversity of things, especially in tech.
+- 📮 Feel free to talk with me! Contacts are at the bottom.
 
 ### Technology Stack
 
