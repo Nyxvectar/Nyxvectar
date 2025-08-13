@@ -9,6 +9,7 @@ I'm **Nyxvectar**, ~~an ordinary student~~ who is into linux and internet develo
 ### Technology Stack
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Rust-FF7518?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
@@ -19,6 +20,7 @@ I'm **Nyxvectar**, ~~an ordinary student~~ who is into linux and internet develo
 </div>
 
 - **Go** and **Kubernetes** are my primary technologies.
+- Learn **Rust** and use it as primary language in the future.
 - **Nix** enthusiast for system configuration and packaging.
 - Working with **Docker** and **Kubernetes** containerization.
 - Built my static website with **Hugo**.
