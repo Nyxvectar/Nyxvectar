@@ -19,11 +19,11 @@ I'm **Nyxvectar**, ~~an ordinary student~~ who is into linux and internet develo
 
 </div>
 
-- **Go** and **Kubernetes** are my primary technologies.
-- Learn **Rust** and use it as primary language in the future.
+- **Rust** is the primary programming language of mine.
+- **Go** and **Kubernetes** are my secondary technologies.
 - **Nix** enthusiast for system configuration and packaging.
-- Working with **Docker** and **Kubernetes** containerization.
-- Built my static website with **Hugo**.
+- Working with **Docker** and Kubernetes containerization.
+- Use **Git** for daily VCS & Built static website with **Hugo**.
 
 ### Environment
 
