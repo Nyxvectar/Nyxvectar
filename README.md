@@ -31,7 +31,7 @@ I'm **Raye Lattice**, ~~an ordinary student~~ who is into linux and internet dev
 <div align="center">
   <a href="https://nixos.org/"><img src="https://img.shields.io/badge/NixOS-1793D1?style=for-the-badge&logo=nixos&logoColor=white" /></a>
   <a href="https://gentoo.org/"><img src="https://img.shields.io/badge/Gentoo-7400cd?style=for-the-badge&logo=gentoo&logoColor=white" /></a>
-  <a href="https://colemakmods.github.io/mod-dh/"><img src="https://img.shields.io/badge/Colemak-DH-000000?style=for-the-badge&logo=monkeytype&logoColor=white" />
+  <a href="https://colemakmods.github.io/mod-dh/"><img src="https://img.shields.io/badge/Colemak-DH-000000?style=for-the-badge&logo=monkeytype&logoColor=white" /></a>
   <a href="https://hyprland.org/"><img src="https://img.shields.io/badge/Hyprland-00BBDD?style=for-the-badge&logo=hyprland&logoColor=white" /></a>
 </div>
 
@@ -46,5 +46,5 @@ I'm **Raye Lattice**, ~~an ordinary student~~ who is into linux and internet dev
 ### 📫 Contact
 
 [![Protonmail](https://img.shields.io/badge/Nyxvectar@proton.me-ffffff?style=for-the-badge&logo=protonmail&logoColor=000000)](Nyxvectar@proton.me)
-[![Matrix](https://img.shields.io/badge/nyxvectar@matrix.org-ffffff?style=for-the-badge&logo=element&logoColor=000000)](https://matrix.to/#/@nyxvectar:matrix.org)
+[![BiliBili](https://img.shields.io/badge/nyxvectar@bilibili.com-ffffff?style=for-the-badge&logo=bilibili&logoColor=000000)](https://space.bilibili.com/246563710)
 [![Telegram](https://img.shields.io/badge/nyxvectar@telegram.org-ffffff?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/nyxvectar)
