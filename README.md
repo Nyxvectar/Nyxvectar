@@ -1,7 +1,8 @@
-## Welcome! Here is Nyxvectar 😉
+## Welcome! Here is Raye Lattice 😉
 
-I'm **Nyxvectar**, ~~an ordinary student~~ who is into linux and internet development.
+I'm **Raye Lattice**, ~~an ordinary student~~ who is into linux and internet development.
 
+- 👋 You can also call me *Nyxvectar* or *启构*.
 - 🌏 Communicating with me in English is recommended.
 - 🛰 Interested in a diversity of things, especially in tech.
 - 📮 Feel free to talk with me! Contacts are at the bottom.
