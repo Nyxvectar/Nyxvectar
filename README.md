@@ -2,7 +2,7 @@
 
 I'm **Raye Lattice**, ~~an ordinary student~~ who is into linux and internet development.
 
-- 👋 You can also call me by *Nyxvectar*, *启构* or *Rustacean*.
+- 👋 You can also call me by *Nyxvectar*, or just *Rustacean*.
 - 🌏 Communicating with me in English is recommended.
 - 🛰 Interested in a diversity of things, especially in tech.
 - 📮 Feel free to talk with me! Contacts are at the bottom.
