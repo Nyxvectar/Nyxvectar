@@ -1,6 +1,6 @@
 ## Welcome! Here is Raye Lattice 😉
 
-I'm **Raye Lattice**, ~~an ordinary student~~ who is into linux and internet development.
+I'm **Raye Lattice**, ~~an ordinary student~~ who is into IA and QF.
 
 - 👋 You can also call me by *Nyxvectar*, or just *Rustacean*.
 - 🌏 Communicating with me in English is recommended.
