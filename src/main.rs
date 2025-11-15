@@ -1,9 +1,9 @@
 /**
- * Author:  Raye Lattice  
+ * Author:  Ethan Ryan Woo
  * Repo:    Nyxvectar
  * Created: 08/28/2020
  */
 
 fn main() {
-    println!("Hello, Raye Lattice!");
+    println!("Hello, Ethan Ryan Woo!");
 }
