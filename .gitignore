@@ -1,9 +1,14 @@
 /target
+/result
+/build
 .idea
-
-
-# Added by cargo
-#
-# already existing elements were commented out
-
-#/target
+.vscode
+.classpath
+.project
+.settings
+*.iml
+*.class
+*.log
+*.classpath
+*.project
+*.settings
