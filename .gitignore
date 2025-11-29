@@ -1,0 +1,14 @@
+/target
+/result
+/build
+.idea
+.vscode
+.classpath
+.project
+.settings
+*.iml
+*.class
+*.log
+*.classpath
+*.project
+*.settings
